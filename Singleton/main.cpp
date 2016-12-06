@@ -35,7 +35,6 @@ public:
 
 private:
     string guestName;
-
     vector < string > guestList;
 
     // private constructor and destructor
